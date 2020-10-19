@@ -4,7 +4,7 @@ Algoritmos para quebrar a criptografia de Cesar, feito como
 Trabalho para a matéria de introdução ao python.
 
 Modo de uso:
-  Primeiramente baixe os arquivos no_secret.py e o dicionárioptcompleto.
+    Primeiramente baixe os arquivos no_secret.py e o dicionárioptcompleto.
   Deixem os dois na mesma pasta.
   Execute o arquivo no_secret.py
   Assim que o algoritmo iniciar ele aparecerá duas opções,
